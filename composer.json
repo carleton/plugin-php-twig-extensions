@@ -26,6 +26,12 @@
   "require": {
     "php":            ">=8.2",
     "pattern-lab/core": "^2.0.0",
-    "twig/extensions": "~1.2"
-  }
+    "carleton/twig-extensions-fork": "dev-develop"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url":  "git@github.com:carleton/twig-extensions-fork.git"
+    }
+  ]
 }
