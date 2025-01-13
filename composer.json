@@ -1,5 +1,5 @@
 {
-  "name":             "pattern-lab/plugin-twig-extensions",
+  "name":             "carleton/plugin-twig-extensions",
   "description":      "Twig Extensions for the PHP version of Pattern Lab",
   "keywords":         ["twig", "pattern lab"],
   "homepage":         "http://patternlab.io",
