@@ -30,7 +30,7 @@
   },
   "repositories": [
     {
-      "type": "vcs",
+      "type": "github",
       "url":  "git@github.com:carleton/Twig-extensions-fork.git"
     }
   ]
